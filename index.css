@@ -1,0 +1,48 @@
+body
+{
+	background-color : black;
+	color : white;
+	font-family : 'Lato', Calibri, Arial, sans-serif;
+}
+
+th,td
+{
+	padding : 5px;	
+}
+
+a
+{
+	color : yellow;
+}
+
+.sounds th
+{
+	background-color : #FF4900;
+	color : black;
+}
+
+.sounds td
+{
+	border : #FF4900 1px dotted;
+}
+
+.news th
+{
+	background-color : #9B0203;
+}
+
+.news td
+{
+	border : #9B0203 1px dotted;
+}
+
+.iplayer td
+{
+	border : #FF2FA1 1px dotted;
+}
+
+.iplayer th
+{
+	background-color : #FF2FA1;
+}
+
