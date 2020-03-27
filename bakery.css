@@ -1,0 +1,18 @@
+body
+{
+	background-color : #202020;
+	color : white;
+	font-family : 'Lato', Calibri, Arial, sans-serif;
+}
+
+th,td
+{
+	padding : 16px;
+	text-align: left;
+	border: 1px solid #444F53;
+}
+
+a
+{
+	color : white;
+}
