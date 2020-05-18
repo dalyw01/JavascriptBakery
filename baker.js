@@ -8,7 +8,7 @@ var time = new Date().toISOString().
 
 var html = '';
 html = html + '<head><title>Bakery</title><link rel="stylesheet" type="text/css" href="bakery.css"><meta charset="UTF-8"></head>';
-html = html + '<h1>VPID Bakery 🍩🥐🍪</h1><p>Last scan took place on - ' + time + '</p>';
+html = html + '<h1>VPID Bakery 🍩🥐🍪 </h1><p>Last scan took place on - ' + time + '</p>';
 html = html + '<ul>';
 html = html + '<li><a href="#Front Page">Front Page</a></li>';
 html = html + '</ul>';
